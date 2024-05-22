@@ -12,7 +12,7 @@ This is a basic blog post demonstrating how to use Markdown on GitHub Pages. You
 
 **Website Link**
 
-Check out this cool website: [Gemini](**https://gemini.google.com**)
+Check out this cool website: [Gemini](https://gemini.google.com)
 
 **YouTube Video**
 
