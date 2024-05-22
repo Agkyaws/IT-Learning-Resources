@@ -12,7 +12,7 @@ This is a basic blog post demonstrating how to use Markdown on GitHub Pages. You
 
 **Website Link**
 
-Check out this cool website: [Website Name](**https://www.website.com/**).  (Replace with the website name and URL)
+Check out this cool website: [Website Name](**https://gemini.google.com/**)
 
 **YouTube Video**
 
