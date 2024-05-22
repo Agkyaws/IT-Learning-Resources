@@ -1,0 +1,44 @@
+body {
+  font-family: sans-serif;
+  margin: 0;
+  padding: 20px;
+}
+
+h1 {
+  text-align: center;
+}
+
+p {
+  text-align: left;
+  margin-bottom: 20px;
+}
+
+.bookmarks {
+  border: 1px solid #ddd;
+  padding: 10px;
+  margin-bottom: 20px;
+}
+
+.bookmarks h2 {
+  text-align: center;
+  margin-bottom: 10px;
+}
+
+.bookmarks ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.bookmarks li {
+  margin-bottom: 5px;
+}
+
+.bookmarks a {
+  text-decoration: none;
+  color: #000;
+}
+
+.bookmarks a:hover {
+  color: #333;
+}
