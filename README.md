@@ -19,7 +19,6 @@ Check out this cool website: [Gemini2](https://gemini.google.com)
 Here's a helpful video on the topic:
 
 [Free CCNA](https://www.youtube.com/watch?v=S7MNX_UD7vY).
-[![Free CCNA](https://www.youtube.com/watch?v=S7MNX_UD7vY)](https://www.youtube.com/embed/VIDEO
 
 **Body Text**
 
