@@ -18,7 +18,7 @@ Check out this cool website: [Gemini2](https://gemini.google.com)
 
 Here's a helpful video on the topic:
 
-[YouTube video title](**https://support.google.com/youtube/answer/171780?hl=en**).  (Replace with the YouTube video title and get the embed code from YouTube)
+[Free CCNA](https://www.youtube.com/watch?v=S7MNX_UD7vY).
 
 **Body Text**
 
